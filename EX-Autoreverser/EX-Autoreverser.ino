@@ -1,6 +1,6 @@
 //*****************************************************************************
 //*
-//* EXAR-AutoReverser.cpp
+//* EX-AutoReverser.cpp
 //*   Copyright © 2024-2026 Michael Schaff
 //*   All rights reserved.
 //*
